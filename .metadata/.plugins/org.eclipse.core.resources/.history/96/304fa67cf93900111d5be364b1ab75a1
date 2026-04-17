@@ -1,0 +1,17 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		String nome = "Claudielle";
+		String sobreNome = "Sousa";
+		int idade = 36;
+		int peso = 75;
+		boolean casada = true;
+		
+		
+		
+		System.out.println("Meu nome é: " + nome + "Meu sobrenome é :" + sobreNome + "Tenho: " + idade + "Estou pesando: " + peso + "Sou " + casada + ""  );
+	}
+	
+}
